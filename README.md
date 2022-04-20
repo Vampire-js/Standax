@@ -1,7 +1,7 @@
-# Vue 3 + Vite
+# StandAx 2.0
+- Standax is a product we have been working on for 2 years and is developed to help the people who suffer from knee pains after long hours of standing .
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-## Recommended IDE Setup
-
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+# Learn More
+- Visit Our Websites
+  - Standax 1.0 : https://officialstandax.netlify.app
+  - Standax 2.0 : https://standax-v2.netlify.app
